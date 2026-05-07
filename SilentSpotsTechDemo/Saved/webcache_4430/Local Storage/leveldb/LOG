@@ -1,3 +1,27 @@
-2026/04/30-11:46:02.617 83f8 Reusing MANIFEST C:/Users/twood/OneDrive/Desktop/Ross's Silent Spots/SilentSpotsTechDemo/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/30-11:46:02.627 83f8 Recovering log #6
-2026/04/30-11:46:02.627 83f8 Reusing old log C:/Users/twood/OneDrive/Desktop/Ross's Silent Spots/SilentSpotsTechDemo/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2026/05/07-11:40:55.812 87cc Reusing MANIFEST C:/Users/twood/OneDrive/Desktop/Ross's Silent Spots/SilentSpotsTechDemo/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/07-11:40:55.817 87cc Recovering log #6
+2026/05/07-11:40:55.818 87cc Reusing old log C:/Users/twood/OneDrive/Desktop/Ross's Silent Spots/SilentSpotsTechDemo/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2026/05/07-11:41:58.357 87cc Level-0 table #10: started
+2026/05/07-11:41:58.365 87cc Level-0 table #10: 70409 bytes OK
+2026/05/07-11:41:58.377 87cc Delete type=0 #6
+2026/05/07-11:44:58.367 7d64 Level-0 table #12: started
+2026/05/07-11:44:58.370 7d64 Level-0 table #12: 63907 bytes OK
+2026/05/07-11:44:58.376 7d64 Delete type=0 #9
+2026/05/07-11:49:34.653 7f80 Level-0 table #14: started
+2026/05/07-11:49:34.659 7f80 Level-0 table #14: 73078 bytes OK
+2026/05/07-11:49:34.663 7f80 Delete type=0 #11
+2026/05/07-11:51:16.223 8944 Level-0 table #16: started
+2026/05/07-11:51:16.298 8944 Level-0 table #16: 77330 bytes OK
+2026/05/07-11:51:16.303 8944 Delete type=0 #13
+2026/05/07-11:51:16.305 8944 Compacting 4@0 + 1@1 files
+2026/05/07-11:51:16.317 8944 Generated table #17@0: 3 keys, 26388 bytes
+2026/05/07-11:51:16.317 8944 Compacted 4@0 + 1@1 files => 26388 bytes
+2026/05/07-11:51:16.320 8944 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/07-11:51:16.321 8944 Delete type=2 #7
+2026/05/07-11:51:16.321 8944 Delete type=2 #10
+2026/05/07-11:51:16.321 8944 Delete type=2 #12
+2026/05/07-11:51:16.321 8944 Delete type=2 #14
+2026/05/07-11:51:16.321 8944 Delete type=2 #16
+2026/05/07-11:53:58.368 2e90 Level-0 table #19: started
+2026/05/07-11:53:58.373 2e90 Level-0 table #19: 80982 bytes OK
+2026/05/07-11:53:58.375 2e90 Delete type=0 #15
