@@ -1,3 +1,5 @@
-2026/03/19-12:46:29.674 888 Reusing MANIFEST D:\Work\AAT\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/19-12:46:29.674 888 Recovering log #3
-2026/03/19-12:46:29.675 888 Reusing old log D:\Work\AAT\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/05/15-01:16:26.624 3fc0 Log #3: 4 ops saved to Table #4 OK
+2026/05/15-01:16:26.633 3fc0 Archiving C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/05/15-01:16:26.634 3fc0 Table #4: 4 entries OK
+2026/05/15-01:16:26.635 3fc0 Archiving C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/05/15-01:16:26.641 3fc0 **** Repaired leveldb C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****

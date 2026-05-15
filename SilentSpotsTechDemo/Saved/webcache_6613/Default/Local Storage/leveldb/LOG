@@ -1,3 +1,2 @@
-2026/03/20-14:28:19.252 68d8 Reusing MANIFEST D:\Work\AAT\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/20-14:28:19.261 68d8 Recovering log #3
-2026/03/20-14:28:19.264 68d8 Reusing old log D:\Work\AAT\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/15-01:16:26.770 2e44 Creating DB C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/05/15-01:16:26.796 2e44 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
