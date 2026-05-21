@@ -1,0 +1,141 @@
+[37696:55068:0521/082117.102:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[37696:34936:0521/082117.301:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[37696:55068:0521/082117.378:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37696:30896:0521/082124.340:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37696:30896:0521/082124.342:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37696:30896:0521/082124.343:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37696:30896:0521/082124.344:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37696:41640:0521/082125.625:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[37696:41640:0521/082125.627:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[50484:45684:0521/082127.207:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-06E981DAFDE46755E1A5575CC021A0F4 will be ignored
+[37696:55068:0521/082127.274:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-06E981DAFDE46755E1A5575CC021A0F4 (main) will be ignored
+[44064:52788:0521/082128.346:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44064:52788:0521/082128.347:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44064:52788:0521/082128.468:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44064:52788:0521/082128.504:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[37696:52340:0521/082128.564:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[44064:52788:0521/082137.191:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44064:52788:0521/082143.280:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[44064:52788:0521/082147.145:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[44064:52788:0521/082152.569:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[34156:53476:0521/084042.360:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 14-91A45A90CF3A7D9E3966F4F7E1693BA7 will be ignored
+[43288:53928:0521/084504.997:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[43288:53244:0521/084505.092:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[43288:53928:0521/084505.301:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[43288:53244:0521/084519.137:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(146,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(146,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(146,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[43288:45012:0521/084519.195:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(128,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(106,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(128,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(106,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(128,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(106,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[43288:41340:0521/084519.275:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.275:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.275:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.275:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.282:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.282:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.282:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.282:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.301:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.301:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.301:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.301:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.317:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.317:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.317:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.317:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.337:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.338:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.338:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.338:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.350:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.350:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.350:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.350:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.368:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.368:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.368:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.368:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.383:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.383:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.383:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.383:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.402:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.402:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.402:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.402:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.416:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.416:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.416:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.416:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.433:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.434:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.434:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.434:ERROR:gl_utils.cc(415)] [.WebGL-0000231800566200] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084519.497:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(146,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(146,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(146,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[43288:50548:0521/084519.619:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(187,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(165,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+C:\fakepath(187,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4_int)
+C:\fakepath(165,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[37696:55068:0521/084543.583:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[37696:55068:0521/084543.583:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[43288:41340:0521/084759.894:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.894:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.894:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.894:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.914:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.914:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.914:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.914:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.928:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.928:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.929:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.929:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.944:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.944:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.944:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.944:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.959:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.959:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.959:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.959:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.977:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.977:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.977:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.977:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.993:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.993:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.993:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084759.993:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084800.010:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084800.010:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084800.010:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[43288:41340:0521/084800.010:ERROR:gl_utils.cc(415)] [.WebGL-0000231807C3E900] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[37696:55068:0521/113041.959:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
