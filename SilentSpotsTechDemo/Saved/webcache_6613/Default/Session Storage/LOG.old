@@ -1,8 +1,9 @@
 <<<<<<< Updated upstream
-2026/06/04-11:48:32.479 63b0 Creating DB C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage since it was missing.
-2026/06/04-11:48:32.493 63b0 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/06/04-12:21:28.011 2818 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/06/04-12:21:28.033 2818 Recovering log #3
+2026/06/04-12:21:28.043 2818 Reusing old log C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/000003.log 
 =======
-2026/06/04-12:36:13.065 3b58 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
-2026/06/04-12:36:13.067 3b58 Recovering log #3
-2026/06/04-12:36:13.070 3b58 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/000003.log 
+2026/06/04-12:49:55.659 7524 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/06/04-12:49:55.661 7524 Recovering log #3
+2026/06/04-12:49:55.664 7524 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/000003.log 
 >>>>>>> Stashed changes

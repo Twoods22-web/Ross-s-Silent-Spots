@@ -1,8 +1,9 @@
 <<<<<<< Updated upstream
-2026/06/04-11:48:18.336 63b0 Creating DB C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/06/04-11:48:18.367 63b0 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/04-12:21:21.425 2818 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/04-12:21:21.435 2818 Recovering log #3
+2026/06/04-12:21:21.440 2818 Reusing old log C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
 =======
-2026/06/04-12:36:07.909 3b58 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/04-12:36:07.919 3b58 Recovering log #12
-2026/06/04-12:36:07.923 3b58 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/06/04-12:49:50.031 7524 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/04-12:49:50.037 7524 Recovering log #12
+2026/06/04-12:49:50.044 7524 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
 >>>>>>> Stashed changes

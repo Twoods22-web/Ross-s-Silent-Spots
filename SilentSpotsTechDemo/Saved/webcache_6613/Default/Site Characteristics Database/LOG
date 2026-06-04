@@ -1,9 +1,7 @@
-<<<<<<< Updated upstream
-2026/06/04-12:21:21.396 55ec Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/06/04-12:21:21.397 55ec Recovering log #3
-2026/06/04-12:21:21.397 55ec Reusing old log C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
-=======
-2026/06/04-12:49:50.001 2f30 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/06/04-12:49:50.019 2f30 Recovering log #6
-2026/06/04-12:49:50.020 2f30 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
->>>>>>> Stashed changes
+2026/06/04-12:56:05.960 6dc Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/06/04-12:56:05.963 6dc Recovering log #3
+2026/06/04-12:56:05.964 6dc Level-0 table #3: started
+2026/06/04-12:56:05.969 6dc Level-0 table #3: 241 bytes OK
+2026/06/04-12:56:05.970 6dc Recovering log #6
+2026/06/04-12:56:05.970 6dc Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/06/04-12:56:05.974 6dc Delete type=0 #3
