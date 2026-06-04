@@ -1,9 +1,7 @@
-<<<<<<< Updated upstream
-2026/06/04-12:21:21.425 2818 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/04-12:21:21.435 2818 Recovering log #3
-2026/06/04-12:21:21.440 2818 Reusing old log C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-=======
-2026/06/04-12:49:50.031 7524 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/04-12:49:50.037 7524 Recovering log #12
-2026/06/04-12:49:50.044 7524 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
->>>>>>> Stashed changes
+2026/06/04-12:56:06.044 8054 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/04-12:56:06.051 8054 Recovering log #3
+2026/06/04-12:56:06.051 8054 Level-0 table #3: started
+2026/06/04-12:56:06.062 8054 Level-0 table #3: 55445 bytes OK
+2026/06/04-12:56:06.063 8054 Recovering log #12
+2026/06/04-12:56:06.067 8054 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/06/04-12:56:06.070 8054 Delete type=0 #3
