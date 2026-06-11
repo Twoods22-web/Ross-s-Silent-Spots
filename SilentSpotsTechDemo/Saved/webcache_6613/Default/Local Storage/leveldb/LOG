@@ -1,3 +1,5 @@
-2026/06/04-15:15:47.581 2958 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/04-15:15:47.602 2958 Recovering log #3
-2026/06/04-15:15:47.607 2958 Reusing old log C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/06/11-12:32:19.528 1ef8 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/11-12:32:19.536 1ef8 Recovering log #12
+2026/06/11-12:32:19.537 1ef8 Level-0 table #14: started
+2026/06/11-12:32:19.547 1ef8 Level-0 table #14: 64378 bytes OK
+2026/06/11-12:32:19.554 1ef8 Delete type=0 #12
