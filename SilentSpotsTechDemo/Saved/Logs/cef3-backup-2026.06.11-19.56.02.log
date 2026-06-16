@@ -1,0 +1,10 @@
+[29212:29872:0611/124359.571:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29212:3212:0611/124359.693:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29212:29872:0611/124359.722:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35728:32324:0611/124406.857:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-657E32789697396559B536FB5A0380EC will be ignored
+[27348:32592:0611/124406.916:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 25
+[29212:29872:0611/130216.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31876:13304:0611/132516.142:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-8D61D5D89EF26ACEF2ECB11CEFD79644 will be ignored
+[38836:35312:0611/132628.493:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-8BB06A87ACEF45E0190A1DD00B505AA3 will be ignored
+[27348:32592:0611/132628.957:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 65
+[29212:29872:0611/155602.284:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
