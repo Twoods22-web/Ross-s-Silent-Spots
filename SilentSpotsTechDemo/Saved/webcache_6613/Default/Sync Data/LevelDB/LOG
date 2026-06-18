@@ -1,3 +1,2 @@
-2026/06/16-16:10:44.196 9a54 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/06/16-16:10:44.231 9a54 Recovering log #3
-2026/06/16-16:10:44.234 9a54 Reusing old log C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
+2026/06/18-10:13:40.010 6060 Creating DB C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
+2026/06/18-10:13:40.054 6060 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
