@@ -1,4 +1,25 @@
-[14976:8400:0630/220452.518:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14976:30504:0630/220452.574:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14976:8400:0630/220452.589:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14976:8400:0701/000041.287:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27924:18096:0701/212931.951:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27924:29176:0701/212932.252:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27924:18096:0701/212932.392:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34872:15600:0701/212943.094:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-11DCACCD5ACFDEB06D3078670A6B2A6C will be ignored
+[35680:29708:0701/212944.497:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[35680:29544:0701/212944.583:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[35680:29544:0701/212944.583:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[35680:29544:0701/212944.585:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27924:7740:0701/212945.032:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[27924:18096:0701/212947.846:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27924:18096:0701/212947.846:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27924:18096:0701/212947.847:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27924:18096:0701/212947.847:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27924:7740:0701/212947.857:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[37580:5184:0701/212948.127:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:31172:0701/212948.327:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:31172:0701/212948.327:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:31172:0701/212948.329:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:5184:0701/212954.045:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:5184:0701/212954.061:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:31172:0701/212954.070:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:31172:0701/212954.070:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37580:31172:0701/212954.071:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27924:7740:0701/212954.741:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27924:7740:0701/213224.700:ERROR:cast_crl.cc(443)] CRL - Verification failed.
