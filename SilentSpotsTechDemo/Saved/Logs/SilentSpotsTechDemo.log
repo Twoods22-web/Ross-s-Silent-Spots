@@ -4919,3 +4919,6 @@ FPackageName: Skipped package /Game/UPDCarnivalEnvironment/wooden_picnic_table_t
 [2026.07.02-16.28.45:330][619]LogNFORDenoise: NFORDenoise function shutting down
 [2026.07.02-16.28.45:346][619]LogXGEController: Cleaning working directory: C:/Users/twood/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.07.02-16.28.45:381][619]LogPakFile: Destroying PakPlatformFile
+[2026.07.02-16.28.47:341][619]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.07.02-16.28.47:541][619]LogExit: Exiting.
+[2026.07.02-16.28.47:633][619]Log file closed, 07/02/26 12:28:47
