@@ -1,3 +1,12 @@
-2026/07/02-13:29:54.178 9fec Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/02-13:29:54.184 9fec Recovering log #3
-2026/07/02-13:29:54.186 9fec Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/09-11:29:33.115 4d1c Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/09-11:29:33.126 4d1c Recovering log #3
+2026/07/09-11:29:33.134 4d1c Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/07/09-11:40:58.419 6eac Level-0 table #5: started
+2026/07/09-11:40:58.437 6eac Level-0 table #5: 76931 bytes OK
+2026/07/09-11:40:58.443 6eac Delete type=0 #3
+2026/07/09-11:43:44.539 6eac Level-0 table #7: started
+2026/07/09-11:43:44.557 6eac Level-0 table #7: 71962 bytes OK
+2026/07/09-11:43:44.564 6eac Delete type=0 #4
+2026/07/09-11:46:11.660 6eac Level-0 table #9: started
+2026/07/09-11:46:11.675 6eac Level-0 table #9: 71954 bytes OK
+2026/07/09-11:46:11.681 6eac Delete type=0 #6
