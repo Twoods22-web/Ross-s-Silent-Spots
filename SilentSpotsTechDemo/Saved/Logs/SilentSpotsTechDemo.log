@@ -5803,3 +5803,5 @@ Make sure '/Game/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.BP_ThirdP
 [2026.07.29-22.00.47:711][544]LogXGEController: Cleaning working directory: C:/Users/twood/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.07.29-22.00.47:772][544]LogPakFile: Destroying PakPlatformFile
 [2026.07.29-22.00.49:950][544]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.07.29-22.00.50:184][544]LogExit: Exiting.
+[2026.07.29-22.00.50:264][544]Log file closed, 07/29/26 18:00:50
