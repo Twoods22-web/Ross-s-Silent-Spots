@@ -1,0 +1,15 @@
+[31952:10352:0730/094552.683:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31952:22944:0730/094553.074:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31952:10352:0730/094553.238:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12316:15596:0730/094620.892:ERROR:frame_impl.cc(537)] frame 6-6A4F62683EDAF6BCEFE38D49176DABAF connection timeout
+[11016:8956:0730/094630.265:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-74CA0D0008CB1BA39950AF57C2437872 will be ignored
+[31952:10352:0730/094635.670:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/094640.982:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/094645.984:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/094847.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/095403.013:ERROR:device_event_log_impl.cc(196)] [09:54:02.995] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31952:10352:0730/100449.392:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/100454.391:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/100459.391:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/100754.781:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31952:10352:0730/104043.493:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
