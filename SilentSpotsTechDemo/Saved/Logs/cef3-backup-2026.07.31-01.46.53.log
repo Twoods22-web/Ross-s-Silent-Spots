@@ -1,0 +1,13 @@
+[23532:24116:0730/214136.427:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23532:18284:0730/214136.719:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23532:24116:0730/214136.846:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18368:11948:0730/214154.771:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-32CE135326AEA3260DA8327788960550 will be ignored
+[23532:24116:0730/214224.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214241.241:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214527.621:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214532.654:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214537.678:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214622.906:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214643.015:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214648.058:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23532:24116:0730/214653.079:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
