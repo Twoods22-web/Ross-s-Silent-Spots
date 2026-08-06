@@ -1,7 +1,21 @@
-[24652:13612:0806/154642.897:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24652:14512:0806/154643.172:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24652:13612:0806/154643.357:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26328:11424:0806/154655.841:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D7AE8B850DC54A2690F3D0974A754970 will be ignored
-[24652:13612:0806/155856.330:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24652:13612:0806/155931.567:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24652:13612:0806/160204.572:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16336:16128:0806/172453.551:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16336:16128:0806/172453.610:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[16336:16120:0806/172453.710:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16336:16128:0806/172453.735:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16336:7628:0806/172458.963:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16336:7628:0806/172458.967:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16336:7628:0806/172458.969:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16336:7628:0806/172458.972:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16336:16128:0806/172459.455:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:23164:0806/172459.639:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16336:23164:0806/172459.651:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6128:19756:0806/172501.251:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4C7CA58B193B26DFD0C670065E1804A2 will be ignored
+[16336:16128:0806/172509.605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/172526.981:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/172542.305:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/172547.304:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/172552.305:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/172557.306:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/173403.697:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/173604.053:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16336:16128:0806/174514.449:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
