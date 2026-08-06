@@ -1,0 +1,24 @@
+[26504:1120:0806/133230.685:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26504:13744:0806/133230.947:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26504:1120:0806/133231.053:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26504:1120:0806/133238.862:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12940:17084:0806/133240.330:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 21
+[12940:17084:0806/133240.336:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 15
+[27732:15716:0806/133240.521:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-75151C8212FE629C950EA2177D481D95 will be ignored
+[26504:1120:0806/133244.165:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133259.181:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133304.198:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133309.199:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133314.199:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133319.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133324.199:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133329.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133334.218:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133339.220:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133344.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/133349.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/141315.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/141446.502:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/143111.351:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/143121.417:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26504:1120:0806/144521.217:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
