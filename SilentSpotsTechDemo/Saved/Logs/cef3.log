@@ -1,7 +1,35 @@
-[24652:13612:0806/154642.897:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24652:14512:0806/154643.172:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24652:13612:0806/154643.357:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[26328:11424:0806/154655.841:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D7AE8B850DC54A2690F3D0974A754970 will be ignored
-[24652:13612:0806/155856.330:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24652:13612:0806/155931.567:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24652:13612:0806/160204.572:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[2044:25952:0807/113652.880:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2044:6716:0807/113653.256:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2044:25952:0807/113653.502:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2044:25952:0807/113711.128:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3036:15576:0807/113723.220:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C75427C13D007045F8BEEDB51FC11587 will be ignored
+[27448:27628:0807/113734.247:ERROR:frame_impl.cc(537)] frame 6-7462E63FD258C80604E074966EDA0702 connection timeout
+[2044:25952:0807/113740.173:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/113800.988:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/113942.225:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114447.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114453.663:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114503.789:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114644.374:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114649.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114654.374:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114659.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114709.375:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114714.375:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114800.634:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114805.658:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114810.715:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114815.751:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114820.812:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114825.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114830.973:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114911.501:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/114941.906:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/115027.787:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/115034.065:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/115330.717:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/115958.540:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/120806.632:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/120811.632:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/120817.306:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2044:25952:0807/121121.452:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
