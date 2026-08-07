@@ -1,0 +1,7 @@
+[24652:13612:0806/154642.897:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24652:14512:0806/154643.172:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24652:13612:0806/154643.357:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26328:11424:0806/154655.841:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D7AE8B850DC54A2690F3D0974A754970 will be ignored
+[24652:13612:0806/155856.330:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24652:13612:0806/155931.567:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[24652:13612:0806/160204.572:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
