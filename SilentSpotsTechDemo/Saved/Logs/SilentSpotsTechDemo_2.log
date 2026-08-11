@@ -7225,3 +7225,6 @@ Samplers Used: 2
 [2026.08.11-20.56.01:028][831]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2026.08.11-20.56.01:031][831]RenderDocPlugin: plugin has been unloaded.
 [2026.08.11-20.56.01:082][831]LogPakFile: Destroying PakPlatformFile
+[2026.08.11-20.56.06:810][831]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.08.11-20.56.06:987][831]LogExit: Exiting.
+[2026.08.11-20.56.07:076][831]Log file closed, 08/11/26 16:56:07
