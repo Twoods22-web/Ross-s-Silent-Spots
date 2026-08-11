@@ -1,0 +1,28 @@
+[1984:5636:0811/153155.328:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1984:10572:0811/153155.648:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1984:5636:0811/153155.809:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1984:5636:0811/153209.770:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[22188:31404:0811/153211.978:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A44C09A071DD28258450BA22B9C36474 will be ignored
+[28388:10168:0811/153213.502:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28388:3528:0811/153213.591:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28388:3528:0811/153213.591:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28388:3528:0811/153213.593:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1984:5636:0811/153214.621:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1984:20504:0811/153215.622:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[1984:5636:0811/153215.944:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[1984:5636:0811/153215.944:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[1984:5636:0811/153215.944:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[1984:5636:0811/153215.944:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[1984:20504:0811/153216.280:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[8828:2012:0811/153217.939:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8828:16204:0811/153218.301:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8828:16204:0811/153218.301:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8828:16204:0811/153218.301:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8828:2012:0811/153223.313:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1984:5636:0811/153239.959:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1984:5636:0811/153259.874:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1984:5636:0811/153304.902:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1984:5636:0811/153314.943:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1984:5636:0811/153407.393:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17020:29956:0811/153432.082:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1984:5636:0811/153643.656:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
