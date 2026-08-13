@@ -1,126 +1,36 @@
-[14188:13976:0813/100337.657:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14188:13976:0813/100337.661:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[14188:13976:0813/100337.762:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[14188:10820:0813/100337.868:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14188:13976:0813/100337.971:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14188:28940:0813/100343.316:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14188:28940:0813/100343.320:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14188:28940:0813/100343.322:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14188:28940:0813/100343.324:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14188:13976:0813/100344.034:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:18308:0813/100344.274:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14188:18308:0813/100344.283:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31828:24628:0813/100345.604:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D4BE214CAADC2D301342D56A151298A8 will be ignored
-[14188:13976:0813/100345.662:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-D4BE214CAADC2D301342D56A151298A8 (main) will be ignored
-[14188:13976:0813/100348.886:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100629.397:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100634.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100639.423:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100644.441:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100649.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100654.490:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100659.510:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100704.511:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100734.531:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100739.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/100834.890:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[8144:33696:0813/101600.330:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 1F-2B00C49964CC6F685B10943B8F7BC611 will be ignored
-[14188:13976:0813/101724.497:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/101739.584:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[9580:33268:0813/102041.514:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 21-1B0EA0003741276530FD57B409B014DC will be ignored
-[31648:6688:0813/102144.171:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[31648:9444:0813/102144.252:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[31648:6688:0813/102147.849:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[31648:22152:0813/102147.888:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[31648:10868:0813/102147.933:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[31648:35552:0813/102147.952:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(120,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:30268:0813/102147.993:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(121,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:22152:0813/102148.006:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(130,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:30424:0813/102148.011:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(117,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:10868:0813/102148.048:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(163,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[14188:13976:0813/102152.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/102447.382:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[31648:22152:0813/103128.701:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[31648:35552:0813/103128.995:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[31648:20976:0813/103129.324:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[31648:22152:0813/103129.332:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[31648:6688:0813/103129.423:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(117,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:35552:0813/103129.429:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(120,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:30268:0813/103129.442:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(121,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:28888:0813/103129.450:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(130,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:10868:0813/103129.454:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(163,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4_uint4_int)
-
-[31648:9444:0813/103129.476:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[31648:18008:0813/103129.775:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.776:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.776:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.776:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.776:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.786:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.786:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.786:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.786:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[31648:18008:0813/103129.786:ERROR:gl_utils.cc(415)] [.WebGL-0000211804ECAA00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[14188:13976:0813/111000.207:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111005.247:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111010.262:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111015.281:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111020.332:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111025.340:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111030.402:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111035.459:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111040.459:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111045.464:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111050.532:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111055.531:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111100.537:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111105.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/111110.548:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[33252:28536:0813/120221.746:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 23-9309DD589DF78C94753366D36735D604 will be ignored
-[14188:13976:0813/120906.720:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14188:13976:0813/122536.347:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[32536:1992:0813/122739.077:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32536:11292:0813/122739.290:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32536:1992:0813/122739.392:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32536:11292:0813/122744.778:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:11292:0813/122744.779:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:11292:0813/122744.780:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:11292:0813/122744.784:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:26972:0813/122745.325:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:26972:0813/122745.329:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34080:4768:0813/122746.392:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-36628074E1A882F8B1836CB232EA882A will be ignored
+[32536:1992:0813/122837.656:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122842.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122847.669:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122852.668:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122857.703:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122902.709:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122907.762:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122912.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122917.810:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122922.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122927.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122932.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122937.883:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122942.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122947.932:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122952.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122958.005:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123048.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123053.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123058.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123103.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123108.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123113.335:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123118.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123123.393:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123715.412:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
