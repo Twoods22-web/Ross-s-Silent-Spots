@@ -1,0 +1,36 @@
+[32536:1992:0813/122739.077:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32536:11292:0813/122739.290:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32536:1992:0813/122739.392:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32536:11292:0813/122744.778:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:11292:0813/122744.779:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:11292:0813/122744.780:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:11292:0813/122744.784:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:26972:0813/122745.325:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[32536:26972:0813/122745.329:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34080:4768:0813/122746.392:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-36628074E1A882F8B1836CB232EA882A will be ignored
+[32536:1992:0813/122837.656:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122842.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122847.669:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122852.668:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122857.703:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122902.709:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122907.762:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122912.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122917.810:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122922.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122927.835:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122932.865:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122937.883:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122942.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122947.932:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122952.986:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/122958.005:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123048.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123053.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123058.275:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123103.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123108.278:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123113.335:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123118.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123123.393:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32536:1992:0813/123715.412:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
