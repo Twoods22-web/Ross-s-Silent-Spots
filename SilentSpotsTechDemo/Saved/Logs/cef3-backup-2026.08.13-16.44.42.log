@@ -1,0 +1,18 @@
+[13844:16640:0813/123804.948:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13844:24288:0813/123805.518:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13844:16640:0813/123805.685:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13844:16640:0813/123820.170:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19184:10464:0813/123824.052:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-59D132499BA0D16E06E7F096675E900E will be ignored
+[13844:16640:0813/123853.635:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:29552:0813/123855.974:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13844:16640:0813/123857.971:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/123911.957:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124036.085:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124041.086:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124051.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124056.088:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124101.098:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124106.832:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13844:16640:0813/124111.959:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33288:19220:0813/124351.883:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13844:16640:0813/124442.161:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

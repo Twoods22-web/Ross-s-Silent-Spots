@@ -1,42 +1,43 @@
-[22224:4400:0811/153716.705:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22224:9700:0811/153716.819:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22224:4400:0811/153716.928:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24676:17548:0811/153726.574:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[24676:23772:0811/153726.713:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[24676:23772:0811/153726.718:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[24676:23772:0811/153726.752:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[22224:4400:0811/153731.511:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:15860:0811/153731.649:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[22224:4400:0811/153731.857:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[22224:4400:0811/153731.859:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[22224:4400:0811/153731.859:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[22224:4400:0811/153731.859:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[22224:15860:0811/153732.725:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[18064:28636:0811/153733.356:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[18064:15564:0811/153733.849:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[18064:15564:0811/153733.849:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[18064:15564:0811/153733.850:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[18064:28636:0811/153738.495:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[22224:4400:0811/153801.505:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/153816.601:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/153821.631:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/153826.645:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/153836.911:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[27060:19764:0811/153944.364:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[22224:4400:0811/154330.047:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/161657.325:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/162555.915:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/162736.661:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163046.198:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163051.252:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163056.255:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163257.309:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163528.427:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163533.487:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163548.612:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163603.785:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163710.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163846.892:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163851.971:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/163902.680:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22224:4400:0811/165557.717:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[23892:27916:0821/111035.609:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23892:3156:0821/111035.904:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23892:27916:0821/111036.004:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20036:20484:0821/111047.526:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CA7A7347E4C47BDC0B0FEA04197F7CDC will be ignored
+[23892:27916:0821/111416.292:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/111421.291:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/111426.438:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/111457.453:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/111939.731:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/111946.707:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/112011.869:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/112058.248:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/112907.366:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/112932.863:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/112948.011:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/113013.128:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/113254.327:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/113309.372:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/113837.302:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/113842.315:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/114014.733:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/114135.426:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/114231.471:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/114326.746:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/114418.565:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/114428.580:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/115804.017:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/120331.977:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/120449.123:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121329.274:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121706.627:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121711.627:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121716.657:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121721.674:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121726.711:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121731.710:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121736.741:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121741.756:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121746.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121751.912:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121756.954:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121817.473:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23892:27916:0821/121847.302:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
