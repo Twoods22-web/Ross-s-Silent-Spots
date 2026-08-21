@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2026/08/21-11:10:36.095 4094 Creating DB C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
 2026/08/21-11:10:36.129 4094 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+=======
+2026/08/21-11:23:38.386 5a1c Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/21-11:23:38.399 5a1c Recovering log #10
+2026/08/21-11:23:38.406 5a1c Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
+>>>>>>> e54c66677896948202166e2cdaa18cbe8d0aac2f
