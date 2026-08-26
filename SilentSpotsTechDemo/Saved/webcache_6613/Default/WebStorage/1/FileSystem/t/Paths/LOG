@@ -1,1 +1,5 @@
-2026/08/21-11:23:59.108 5d54 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001
+2026/08/26-11:36:01.367 4048 Creating DB C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths since it was missing.
+2026/08/26-11:36:01.577 4048 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001
+2026/08/26-11:36:01.577 4048 Recovering log #6
+2026/08/26-11:36:01.578 4048 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000006.log 
+2026/08/26-11:36:01.578 4048 Delete type=2 #4

@@ -1,12 +1,42 @@
-[31072:5000:0826/113424.716:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31072:4332:0826/113424.825:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31072:5000:0826/113424.843:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31072:5000:0826/113430.504:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
-[31072:5000:0826/113430.666:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
-[31072:25808:0826/113430.765:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31072:25808:0826/113430.769:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31072:25808:0826/113430.770:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31072:25808:0826/113430.771:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31072:5000:0826/113431.254:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[31072:25808:0826/113431.710:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31072:25808:0826/113431.711:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15776:28436:0826/113543.793:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15776:16456:0826/113544.124:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15776:28436:0826/113544.266:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15776:32908:0826/113550.193:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15776:32908:0826/113550.195:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15776:32908:0826/113550.196:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15776:32908:0826/113550.198:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15776:28436:0826/113551.582:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:16456:0826/113551.800:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15776:16456:0826/113551.802:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27696:32728:0826/113552.503:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ADF42E775E9363307139A0B1F79A590D will be ignored
+[22660:33212:0826/113553.676:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22660:15544:0826/113553.744:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22660:15544:0826/113553.744:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22660:15544:0826/113553.745:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15776:2392:0826/113555.805:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[15776:28436:0826/113556.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[15776:28436:0826/113556.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[15776:28436:0826/113556.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[15776:28436:0826/113556.942:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[15776:2392:0826/113557.010:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[13860:30092:0826/113557.172:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13860:30544:0826/113557.271:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13860:30544:0826/113557.271:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13860:30544:0826/113557.272:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15776:28436:0826/113558.029:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension fheoggkfdfchfphceeifdbepaooicaho
+[13860:30092:0826/113559.868:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15776:28436:0826/113701.754:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/113721.913:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/113726.915:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[5068:28336:0826/113805.848:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15776:28436:0826/113927.368:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/114147.688:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/114202.744:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/114207.760:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/114713.367:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/114718.367:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[32868:33500:0826/120737.934:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 17-4F45EF44C02B95E8AC523426CCD9CE83 will be ignored
+[15776:28436:0826/120827.091:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/121032.559:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15776:28436:0826/121650.994:ERROR:device_event_log_impl.cc(196)] [12:16:50.980] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[15776:28436:0826/124423.579:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
