@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+2026/08/21-11:10:47.459 4094 Creating DB C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/08/21-11:10:47.483 4094 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+=======
+2026/08/21-11:23:49.239 5a1c Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/08/21-11:23:49.243 5a1c Recovering log #3
+2026/08/21-11:23:49.248 5a1c Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Session Storage/000003.log 
+>>>>>>> e54c66677896948202166e2cdaa18cbe8d0aac2f

@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2026/08/27-10:56:30.915 7c70 Creating DB C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
 2026/08/27-10:56:30.922 7c70 Reusing MANIFEST C:\Users\colin\OneDrive\Documents\GitHub\temp\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+=======
+2026/08/26-11:35:44.335 4048 Reusing MANIFEST C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/08/26-11:35:44.339 4048 Recovering log #3
+2026/08/26-11:35:44.340 4048 Reusing old log C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+>>>>>>> 3301e65dd149d40b389b163766230ec99d34631c
