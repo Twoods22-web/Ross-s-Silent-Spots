@@ -1,19 +1,25 @@
-[15820:23388:0827/125638.112:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15820:31428:0827/125638.673:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15820:23388:0827/125638.942:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15820:16636:0827/125651.531:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15820:16636:0827/125651.544:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15820:16636:0827/125651.551:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15820:16636:0827/125651.565:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15820:31428:0827/125653.095:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15820:31428:0827/125653.101:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15864:19652:0827/125654.981:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-906DD2C50CC6E38BB80644C8A36BF657 will be ignored
-[15820:23388:0827/125913.542:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/125918.544:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/125923.545:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/125928.552:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/125938.556:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/125943.557:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/130033.938:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/130135.182:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15820:23388:0827/130429.291:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[36464:30176:0828/170212.113:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36464:4700:0828/170212.377:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36464:30176:0828/170212.512:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16856:35680:0828/170220.431:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-060AB7CD7645716BBE84486F9650F844 will be ignored
+[28700:3956:0828/170222.177:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28700:35604:0828/170222.330:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28700:35604:0828/170222.333:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28700:35604:0828/170222.346:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[36464:17996:0828/170222.704:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[36464:17996:0828/170222.917:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[36464:30176:0828/170222.918:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36464:30176:0828/170222.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36464:30176:0828/170222.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36464:30176:0828/170222.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[36464:17996:0828/170223.372:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[30348:18848:0828/170224.754:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30348:20860:0828/170224.960:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30348:20860:0828/170224.962:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30348:20860:0828/170224.962:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30348:18848:0828/170228.970:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[36464:30176:0828/170302.127:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28700:33580:0828/170434.373:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-C9F8E1FF9BDC607107D105DE8BE4FAF4 will be ignored
+[4072:4076:0828/170434.586:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[36464:30176:0828/170447.756:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[36464:30176:0828/170558.304:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
