@@ -1,25 +1,32 @@
-[36464:30176:0828/170212.113:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[36464:4700:0828/170212.377:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[36464:30176:0828/170212.512:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[16856:35680:0828/170220.431:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-060AB7CD7645716BBE84486F9650F844 will be ignored
-[28700:3956:0828/170222.177:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[28700:35604:0828/170222.330:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[28700:35604:0828/170222.333:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[28700:35604:0828/170222.346:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[36464:17996:0828/170222.704:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[36464:17996:0828/170222.917:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36464:30176:0828/170222.918:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[36464:30176:0828/170222.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[36464:30176:0828/170222.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[36464:30176:0828/170222.919:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[36464:17996:0828/170223.372:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
-[30348:18848:0828/170224.754:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[30348:20860:0828/170224.960:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[30348:20860:0828/170224.962:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[30348:20860:0828/170224.962:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[30348:18848:0828/170228.970:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[36464:30176:0828/170302.127:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[28700:33580:0828/170434.373:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-C9F8E1FF9BDC607107D105DE8BE4FAF4 will be ignored
-[4072:4076:0828/170434.586:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[36464:30176:0828/170447.756:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[36464:30176:0828/170558.304:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/174456.975:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[788:24440:0829/174500.394:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[788:28628:0829/174502.380:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[788:28628:0829/174520.109:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[3216:29264:0829/174522.817:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DE04A8467EF04FBF25324CF4EA918D1C will be ignored
+[788:28628:0829/174607.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/174612.208:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/174918.701:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/174923.709:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175403.046:ERROR:device_event_log_impl.cc(196)] [17:54:03.029] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[788:28628:0829/175538.553:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175544.666:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175551.541:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175622.283:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175632.440:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175647.569:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175657.626:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175702.677:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175717.751:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/175803.365:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/180836.864:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/180841.892:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/180846.941:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181144.540:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181224.855:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181229.919:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181234.973:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181240.042:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181245.049:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181250.097:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/181838.051:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[788:28628:0829/182244.662:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
