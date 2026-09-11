@@ -2424,3 +2424,6 @@ Skipped package /ProceduralVegetationEditor/SampleAssets/Materials/MasterMateria
 [2026.09.11-17.11.40:028][280]RenderDocPlugin: plugin has been unloaded.
 [2026.09.11-17.11.40:036][280]LogXGEController: Cleaning working directory: C:/Users/twood/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.09.11-17.11.40:056][280]LogPakFile: Destroying PakPlatformFile
+[2026.09.11-17.11.40:572][280]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.11-17.11.40:653][280]LogExit: Exiting.
+[2026.09.11-17.11.40:701][280]Log file closed, 09/11/26 13:11:40
