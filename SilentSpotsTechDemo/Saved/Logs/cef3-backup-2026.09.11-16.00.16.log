@@ -1,0 +1,16 @@
+[1104:10332:0911/115714.786:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1104:29992:0911/115715.369:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1104:10332:0911/115715.500:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1104:10332:0911/115734.894:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:29292:0911/115743.954:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1104:10332:0911/115910.579:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115915.628:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115920.937:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115925.982:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115931.000:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115936.006:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115941.005:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115946.127:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/115951.134:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/120011.151:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[1104:10332:0911/120016.151:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
