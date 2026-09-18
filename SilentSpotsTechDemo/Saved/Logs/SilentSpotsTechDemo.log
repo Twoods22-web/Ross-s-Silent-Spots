@@ -6512,3 +6512,5 @@ Skipped package /ProceduralVegetationEditor/SampleAssets/Materials/MasterMateria
 [2026.09.18-15.32.28:587][ 50]LogXGEController: Cleaning working directory: C:/Users/colin/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.09.18-15.32.28:654][ 50]LogPakFile: Destroying PakPlatformFile
 [2026.09.18-15.32.31:785][ 50]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.18-15.32.31:967][ 50]LogExit: Exiting.
+[2026.09.18-15.32.32:082][ 50]Log file closed, 09/18/26 11:32:32
