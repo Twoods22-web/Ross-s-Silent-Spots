@@ -1,0 +1,38 @@
+[21148:8528:0925/130918.167:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21148:26820:0925/130920.396:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21148:8528:0925/130920.717:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21148:8528:0925/130933.790:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[28928:28932:0925/130936.742:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A94C39BBE2E26A26208DE96B3A2A1FFD will be ignored
+[21148:8528:0925/130940.707:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/130943.627:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/130948.631:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/130953.695:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131033.198:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131038.215:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131043.266:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131048.304:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131053.316:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131058.315:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131103.356:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131108.365:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131113.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131118.424:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131123.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131128.425:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131133.446:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131138.480:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131143.501:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131148.511:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131153.617:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131158.677:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131217.579:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131222.641:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131323.219:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131328.224:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131434.273:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131454.446:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131459.525:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131601.597:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131606.598:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/131717.703:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21148:8528:0925/132046.540:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
