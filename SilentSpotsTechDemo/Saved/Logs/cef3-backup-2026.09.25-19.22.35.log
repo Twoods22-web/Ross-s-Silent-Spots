@@ -1,0 +1,9 @@
+[23192:23260:0925/151259.933:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[23192:2884:0925/151300.224:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[23192:23260:0925/151300.403:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16668:13316:0925/151314.175:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-493F3927C9536BD0586D577F5131781A will be ignored
+[23192:23260:0925/151327.016:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26032:12248:0925/151608.122:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[23192:23260:0925/151634.781:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23192:23260:0925/151854.310:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23192:23260:0925/152235.183:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
