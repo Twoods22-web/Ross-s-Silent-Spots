@@ -1,17 +1,27 @@
-[4824:1520:1001/184433.191:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4824:1520:1001/184433.218:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[4824:30484:1001/184433.254:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4824:1520:1001/184433.270:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4824:30484:1001/184437.787:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4824:30484:1001/184437.788:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4824:30484:1001/184437.789:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4824:30484:1001/184437.791:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4824:1520:1001/184438.280:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4824:17336:1001/184438.404:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4824:17336:1001/184438.415:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4824:1520:1001/184507.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4824:1520:1001/184512.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4824:1520:1001/184518.041:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4824:1520:1001/184523.062:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4824:1520:1001/184528.065:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[4824:1520:1001/184809.321:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[31832:34552:1009/122121.674:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31832:32048:1009/122121.972:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31832:34552:1009/122122.081:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33136:33428:1009/122134.223:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3977D4B784159710E143299F638DE596 will be ignored
+[33124:19408:1009/122135.749:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33124:31320:1009/122135.821:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33124:31320:1009/122135.821:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33124:31320:1009/122135.822:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31832:30420:1009/122137.509:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[31832:34552:1009/122137.559:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[31832:34552:1009/122137.560:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[31832:34552:1009/122137.560:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[31832:34552:1009/122137.560:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[31832:30420:1009/122137.629:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9900:33796:1009/122137.808:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9900:33816:1009/122137.898:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9900:33816:1009/122137.898:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9900:33816:1009/122137.899:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9900:33796:1009/122140.288:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31832:30420:1009/122143.072:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27236:31700:1009/122553.600:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[31832:34552:1009/123043.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31832:34552:1009/123229.972:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31832:34552:1009/123250.084:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31832:34552:1009/123255.109:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31832:34552:1009/123335.347:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31832:34552:1009/124520.505:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
