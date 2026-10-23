@@ -1,0 +1,19 @@
+[33292:33472:1016/155927.454:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33292:31624:1016/155927.735:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33292:33472:1016/155928.032:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33292:19552:1016/155932.640:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33292:19552:1016/155932.643:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33292:19552:1016/155932.646:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33292:19552:1016/155932.648:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33292:33472:1016/155933.337:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:20016:1016/155933.401:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33292:20016:1016/155933.404:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22064:2484:1016/155935.546:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6700D5F6AAE605E4FE9FD245DA00550D will be ignored
+[33292:33472:1016/160024.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/160029.135:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/160044.166:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/160049.181:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/160456.587:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/160502.074:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/160507.107:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33292:33472:1016/161307.416:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
