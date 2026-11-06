@@ -1,33 +1,29 @@
-[19972:36996:1106/102456.827:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19972:36996:1106/102456.836:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[19972:36996:1106/102457.354:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[19972:6284:1106/102457.482:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[19972:36996:1106/102457.500:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19972:30328:1106/102510.906:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19972:30328:1106/102510.918:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19972:30328:1106/102510.928:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19972:30328:1106/102510.932:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19972:6284:1106/102513.180:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19972:6284:1106/102513.237:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35020:35004:1106/102517.919:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7D86ED8AB1F2712F7A1FF18635D8C8EB will be ignored
-[19972:36996:1106/102609.592:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102704.959:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102710.026:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102715.097:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102720.097:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102725.097:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102730.149:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102735.186:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102740.253:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102745.324:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102805.699:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102810.768:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102825.967:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102831.033:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102836.098:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102841.169:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/102846.235:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/103026.903:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/103031.970:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/103037.604:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[19972:36996:1106/103046.642:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20340:27564:1106/130234.541:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20340:8140:1106/130234.861:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20340:27564:1106/130235.020:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6152:4768:1106/130301.164:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6152:27708:1106/130301.557:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6152:27708:1106/130301.557:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6152:27708:1106/130301.559:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20340:22544:1106/130302.809:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[20340:27564:1106/130303.256:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[20340:27564:1106/130303.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[20340:27564:1106/130303.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[20340:27564:1106/130303.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[20340:22544:1106/130303.428:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[29784:27756:1106/130304.917:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:13596:1106/130305.268:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:13596:1106/130305.268:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:13596:1106/130305.269:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:27756:1106/130316.846:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:27756:1106/130316.865:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:13596:1106/130316.875:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:13596:1106/130316.875:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29784:13596:1106/130316.876:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20340:27564:1106/135823.591:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20340:27564:1106/140154.840:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20340:27564:1106/140204.918:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20340:27564:1106/140210.134:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20340:27564:1106/140250.470:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20340:27564:1106/140401.056:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[20340:27564:1106/141708.620:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
