@@ -1,12 +1,107 @@
-[29708:4748:1106/143614.452:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29708:4748:1106/143614.579:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[29708:28064:1106/143614.701:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29708:4748:1106/143614.806:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29708:28064:1106/143619.664:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29708:28064:1106/143619.666:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29708:28064:1106/143619.667:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29708:28064:1106/143619.670:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29708:28064:1106/143620.293:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29708:28064:1106/143620.304:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17188:28692:1106/143621.490:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-322F78B05C1D664BEA717899C03D6210 will be ignored
-[29708:4748:1106/145052.408:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8200:14544:1112/163257.102:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8200:8436:1112/163257.414:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8200:14544:1112/163257.557:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8200:24368:1112/163303.566:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8200:24368:1112/163303.569:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8200:24368:1112/163303.571:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8200:24368:1112/163303.572:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8200:14544:1112/163304.250:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:24368:1112/163304.337:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8200:24368:1112/163304.339:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27392:5064:1112/163307.314:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C8FCBEAAB529C8354BE896A4256A0DBC will be ignored
+[27920:4132:1112/163311.803:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27920:28116:1112/163317.888:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27920:28116:1112/163317.889:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27920:28116:1112/163317.891:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24928:23044:1112/163317.943:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24928:23044:1112/163317.943:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24928:23044:1112/163317.949:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24928:23044:1112/163317.949:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24928:23044:1112/163317.949:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24928:23044:1112/163317.951:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[24928:23044:1112/163317.951:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[27920:28116:1112/163317.951:WARNING:stun_port.cc(442)] Port[11c4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[24928:23044:1112/163317.951:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[27920:28116:1112/163317.951:WARNING:stun_port.cc(442)] Port[11c4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27920:28116:1112/163317.951:WARNING:stun_port.cc(442)] Port[11c6c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27920:28116:1112/163317.954:WARNING:stun_port.cc(442)] Port[11c4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27920:28116:1112/163317.954:WARNING:stun_port.cc(442)] Port[11c4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27920:28116:1112/163317.954:WARNING:stun_port.cc(442)] Port[11c6c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[24928:23044:1112/163317.964:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24928:23044:1112/163317.970:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[24928:23044:1112/163317.970:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[24928:23044:1112/163317.970:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[27920:28116:1112/163317.970:WARNING:stun_port.cc(442)] Port[11c4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27920:28116:1112/163317.971:WARNING:stun_port.cc(442)] Port[11c4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27920:28116:1112/163317.971:WARNING:stun_port.cc(442)] Port[11c6c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[8200:22932:1112/163318.223:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
+[8200:14544:1112/163319.238:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[8200:14544:1112/163319.238:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[8200:14544:1112/163319.238:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[8200:14544:1112/163319.238:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[8200:22932:1112/163319.301:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9220:28740:1112/163319.535:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9220:8092:1112/163319.613:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9220:8092:1112/163319.613:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9220:8092:1112/163319.614:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24928:23044:1112/163319.644:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24928:23044:1112/163319.644:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24928:23044:1112/163319.644:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[24928:23044:1112/163319.645:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[18a3400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[1c81c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[1c82400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[18a3400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[1c81c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[1c82400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[18a3400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[1c81c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9220:8092:1112/163319.646:WARNING:stun_port.cc(442)] Port[1c82400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[8200:24368:1112/163320.857:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\twood\Desktop\Ross-s-Silent-Spots\SilentSpotsTechDemo\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8200:24368:1112/163320.857:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[9220:28740:1112/163321.819:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8200:14544:1112/163328.952:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163333.985:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163339.007:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163344.007:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163349.042:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163354.059:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163440.159:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163450.102:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163455.105:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8200:14544:1112/163505.520:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[34464:34520:1112/164110.273:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 16-19AD831623F95B696809753CDB4A128E will be ignored
+[9796:3240:1112/164152.913:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[8200:22932:1112/164152.938:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,11]
+[8200:14544:1112/164153.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,11]
+[8200:14544:1112/164153.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,11]
+[8200:14544:1112/164153.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,11]
+[8200:14544:1112/164153.072:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,11]
+[8200:14544:1112/164153.073:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,14]
+[8200:14544:1112/164153.073:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,14]
+[8200:14544:1112/164153.073:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,14]
+[8200:14544:1112/164153.074:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,14]
+[9796:26684:1112/164153.075:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[9796:14712:1112/164153.561:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[9796:18876:1112/164153.656:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[8200:14544:1112/164155.069:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[8200:14544:1112/164155.070:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[8200:14544:1112/165811.431:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
