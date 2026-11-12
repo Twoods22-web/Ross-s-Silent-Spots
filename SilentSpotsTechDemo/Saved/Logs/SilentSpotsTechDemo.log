@@ -5616,3 +5616,14 @@ Skipped package /ProceduralVegetationEditor/SampleAssets/Materials/MasterMateria
 [2026.11.12-21.58.11:988][743]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
 [2026.11.12-21.58.11:989][743]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
 [2026.11.12-21.58.12:436][743]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/get-started-with-unreal-engine.
+[2026.11.12-21.58.14:045][743]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.12-21.58.14:104][743]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.12-21.58.14:104][743]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFE9E11DC-4B97-D3C7-C188-699F13D10884%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.1-48512491%2B%2B%2BUE5%2BRelease-5.7&UserID=b32f1a6e4df827f783ffc995666c7077%7C7952ca8036794c358aa3c365a7bfad51%7Cf9eeb430-14ac-47c8-8e6f-87accf7afaac&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.12-21.58.14:498][743]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.12-21.58.14:501][743]RenderDocPlugin: plugin has been unloaded.
+[2026.11.12-21.58.14:503][743]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.12-21.58.14:519][743]LogXGEController: Cleaning working directory: C:/Users/twood/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.11.12-21.58.14:560][743]LogPakFile: Destroying PakPlatformFile
+[2026.11.12-21.58.15:805][743]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.12-21.58.15:945][743]LogExit: Exiting.
+[2026.11.12-21.58.16:050][743]Log file closed, 11/12/26 16:58:16
